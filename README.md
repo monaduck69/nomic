@@ -1,4 +1,3 @@
-#  nomic open game
 # Nomic
 
 Nomic is a game created in 1982 by philosopher Peter Suber, the rules of which include mechanisms for changing those rules, usually beginning by way of democratic voting. The game demonstrates that in any system where rule changes are possible, a situation may arise in which the resulting laws are contradictory or insufficient to determine what is in fact legal.
